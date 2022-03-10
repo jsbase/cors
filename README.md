@@ -21,12 +21,12 @@ export async function middleware(req: NextRequest) {
 Test it out with:
 
 ```bash
-curl -i -X OPTIONS -H 'origin: https://vercel.com' https://edge-functions-cors.vercel.sh
+curl -i -X OPTIONS -H 'origin: https://vercel.com' https://jsbase-cors.vercel.app
 ```
 
 ## Demo
 
-https://edge-functions-cors.vercel.app
+https://jsbase-cors.vercel.app
 
 ## How to Use
 
